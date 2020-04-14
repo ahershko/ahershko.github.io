@@ -1,0 +1,24 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on ~AARON~</title>
+		<link>/posts/</link>
+		<description>Recent content in Posts on ~AARON~</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+		<lastBuildDate>Tue, 14 Apr 2020 11:20:07 -0400</lastBuildDate>
+		<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>First Post</title>
+			<link>/posts/first-post/</link>
+			<pubDate>Tue, 14 Apr 2020 11:20:07 -0400</pubDate>
+			
+			<guid>/posts/first-post/</guid>
+			<description>This is the first post.</description>
+			<content type="html"><![CDATA[<p><strong>This is the first post.</strong></p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>

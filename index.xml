@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>~AARON~</title>
+    <link>/</link>
+    <description>Recent content on ~AARON~</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Tue, 14 Apr 2020 11:20:27 -0400</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Tue, 14 Apr 2020 11:20:27 -0400</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Aaron Hershkowitz received his PhD in Classics from Rutgers University in 2018; since that time he has served as the coordinator of the Krateros Squeeze Digitization Project at the Institute for Advanced Study in Princeton, New Jersey.</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>/posts/first-post/</link>
+      <pubDate>Tue, 14 Apr 2020 11:20:07 -0400</pubDate>
+      
+      <guid>/posts/first-post/</guid>
+      <description>This is the first post.</description>
+    </item>
+    
+  </channel>
+</rss>
